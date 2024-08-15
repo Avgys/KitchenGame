@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 624525b189373bd44b8d71059c9bfc1c, type: 3}
+  m_Name: Tomato
+  m_EditorClassIdentifier: 
+  ProductType: 5
+  States:
+  - {fileID: 11400000, guid: cab8df7bbc3823240a7df3c890fdba02, type: 2}
+  - {fileID: 11400000, guid: 458bf28724b060845ba1c3fbd63f158a, type: 2}
+  RecipeCatalog: []
